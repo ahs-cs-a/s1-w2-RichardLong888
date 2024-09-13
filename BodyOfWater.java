@@ -49,7 +49,7 @@ public class BodyOfWater {
         return isSaltWater;
     }
 
-
+/*
     public void printState(){
         System.out.println("Name: " + name);
         System.out.println("Largest diameter: " + largestDiameter);
@@ -57,5 +57,6 @@ public class BodyOfWater {
         System.out.println("It is salt water: " + isSaltWater);
        
     }
+*/
 }
 
